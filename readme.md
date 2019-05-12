@@ -10,9 +10,6 @@
 |Interaccion Tipo 2| ![Sin titulo](http://drive.google.com/uc?export=view&id=0ByaFDfhxYXDWUjFCdWM4UWRVUWc) | ![Sin titulo](http://drive.google.com/uc?export=view&id=0ByaFDfhxYXDWaVM5aGtoTEF1Y1E) | ![Sin titulo](http://drive.google.com/uc?export=view&id=0ByaFDfhxYXDWelA3NkM2QWhrZ2M) | ![Sin titulo](http://drive.google.com/uc?export=view&id=0ByaFDfhxYXDWRHNyQzFQMTFOUWM) |
 |Desventajas | Ciertas medificaciones necestian reescribir todo el diagrama. No tiene GOTO | Ciertas medificaciones necestian reescribir todo el diagrama. No tiene GOTO | Se hacen muy anchos por las Decisiones | Es el menos abstractos de todos. No se puede usar Pseudocodigo |
 
-***
-modificioafjwefjweifwef
-fewfweffwe
 **Denis Adriel CHAMBI**
 
 Trabajo Practico Nro 4
