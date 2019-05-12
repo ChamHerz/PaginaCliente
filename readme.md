@@ -11,6 +11,8 @@
 |Desventajas | Ciertas medificaciones necestian reescribir todo el diagrama. No tiene GOTO | Ciertas medificaciones necestian reescribir todo el diagrama. No tiene GOTO | Se hacen muy anchos por las Decisiones | Es el menos abstractos de todos. No se puede usar Pseudocodigo |
 
 ***
+modificioafjwefjweifwef
+fewfweffwe
 **Denis Adriel CHAMBI**
 
 Trabajo Practico Nro 4
